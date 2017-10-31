@@ -1,0 +1,15 @@
+.main{
+  background-color: gainsboro;
+  height: 500px;
+}
+
+.site{
+  color: midnightblue;
+  font-size: 50px;
+  padding-left: 50px;
+}
+
+.sites{
+  /*display: inline-block;*/
+  float: left;
+}
